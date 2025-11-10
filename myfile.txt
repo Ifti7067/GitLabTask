@@ -1,1 +1,2 @@
 This is the first version of the file with a typo.
+File name corrected successfully
